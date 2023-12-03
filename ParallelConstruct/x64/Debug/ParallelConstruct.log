@@ -1,0 +1,3 @@
+﻿  ParallelConstruct.cpp
+D:\1Univseridad Octavo semestre\Arquitectura hibrida\parcial 2\tarea 8\Tarea 8 - Grupo D\OpenMP_Hola_Hilos\ParallelConstruct\ParallelConstruct.cpp(7,23): warning C4305: '=': truncation from 'double' to 'float'
+  ParallelConstruct.vcxproj -> D:\1Univseridad Octavo semestre\Arquitectura hibrida\parcial 2\tarea 8\Tarea 8 - Grupo D\OpenMP_Hola_Hilos\x64\Debug\ParallelConstruct.exe
